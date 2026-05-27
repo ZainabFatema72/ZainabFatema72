@@ -306,7 +306,7 @@ https://portfoliozai.netlify.app/
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabFatema72&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabFatema72&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 

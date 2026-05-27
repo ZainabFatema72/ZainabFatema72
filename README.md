@@ -304,11 +304,11 @@ https://portfoliozai.netlify.app/
 
 # 💻 Most Used Languages
 
-<div align="center">
+<p align="center">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZainabFatema72&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabFatema72&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 ---
 

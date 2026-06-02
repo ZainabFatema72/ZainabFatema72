@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:269ccc,100:9ed2c5&height=260&section=header&text=Zainab%20Fatema&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-# 👋 Hey, I'm Zainab Fatema
+#  Hey, I'm Zainab Fatema
 
 ### Java Full Stack Developer • Spring Boot Developer • MCA Student
 
@@ -36,7 +36,7 @@ Building scalable enterprise applications using Java, Spring Boot, React.js, Mic
 
 ---
 
-# 💫 About Me
+#  About Me
 
 ```yaml
 Name: Zainab Fatema
@@ -69,11 +69,11 @@ Open To:
 
 ---
 
-# 🚀 Experience
+#  Experience
 
-## 💼 Software Developer Intern — Chetan's Royals WebTech Pvt. Ltd.
+##  Software Developer Intern — Chetan's Royals WebTech Pvt. Ltd.
 
-📅 Jan 2026 – Present
+ Jan 2026 – Present
 
 - Developed full-stack web applications using JavaScript, React.js, Node.js, and MongoDB
 - Built and integrated REST APIs for business applications
@@ -84,11 +84,11 @@ Open To:
 
 ---
 
-# ⚒️ Tech Stack
+#  Tech Stack
 
 <div align="center">
 
-## ☕ Java Ecosystem
+##  Java Ecosystem
 
 <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 
@@ -100,25 +100,25 @@ Open To:
 
 ---
 
-## ⚙️ Backend Development
+##  Backend Development
 
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ---
 
-## 🗄️ Databases
+##  Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 
 ---
 
-## ☁️ Cloud & DevOps
+##  Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,jenkins" />
 
 ---
 
-## 🛠️ Tools
+##  Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,idea" />
 
@@ -126,13 +126,13 @@ Open To:
 
 ---
 
-# 🔥 Featured Projects
+#  Featured Projects
 
 <table>
 <tr>
 <td width="50%">
 
-# 🏥 One Touch Move
+#  One Touch Move
 
 ### Healthcare Appointment Platform
 
@@ -154,7 +154,7 @@ Java • Spring Boot • React.js • MySQL • JWT
 
 <td width="50%">
 
-# 🚆 Smart Clean Monitoring System
+#  Smart Clean Monitoring System
 
 ### Railway Complaint Management
 
@@ -180,7 +180,7 @@ MERN Stack • Firebase • MongoDB
 <tr>
 <td width="50%">
 
-# 🛒 Microservices-Based Order Management System
+#  Microservices-Based Order Management System
 
 ### Features
 
@@ -202,7 +202,7 @@ Node.js • MongoDB • Docker
 
 <td width="50%">
 
-# 🎟️ Event Management System
+#  Event Management System
 
 ### Features
 
@@ -224,7 +224,7 @@ Java • Spring Boot • React.js • MySQL
 
 ---
 
-# 📈 GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -236,7 +236,7 @@ Java • Spring Boot • React.js • MySQL
 
 ---
 
-# 💻 Most Used Languages
+# Most Used Languages
 
 <p align="center">
 
@@ -246,13 +246,13 @@ Java • Spring Boot • React.js • MySQL
 
 ---
 
-# 📊 Contribution Graph
+#  Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabFatema72&bg_color=0d1117&color=269ccc&line=9ed2c5&point=ffffff&hide_border=true"/>
 
 ---
 
-# 🏆 Certifications & Achievements
+#  Certifications & Achievements
 
 ✔ NPTEL – Enhancing Soft Skills & Personality
 
@@ -270,7 +270,7 @@ Java • Spring Boot • React.js • MySQL
 
 ---
 
-# 🌐 Connect With Me
+#  Connect With Me
 
 <div align="center">
 
@@ -294,7 +294,7 @@ Java • Spring Boot • React.js • MySQL
 
 ---
 
-# 👀 Profile Views
+#  Profile Views
 
 <div align="center">
 
@@ -304,7 +304,7 @@ Java • Spring Boot • React.js • MySQL
 
 ---
 
-# ✨ Quote
+#  Quote
 
 <div align="center">
 

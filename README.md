@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Zainab Fatema
 
-### Full Stack Developer • Data Analytics Enthusiast • MERN Stack Developer • MCA Student
+### Full Stack Developer  • MERN Stack Developer • MCA Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=269CCC&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Data+Analytics+Enthusiast;MERN+Stack+Developer;AI+Integrated+Application+Developer;Backend+Developer;Open+To+Full+Stack+%26+Data+Analytics+Roles" />
 

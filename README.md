@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:269ccc,100:9ed2c5&height=260&section=header&text=Zainab%20Fatema&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:F5D76E&height=260&section=header&text=Zainab%20Fatema&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
 #  Hey, I'm Zainab Fatema
 
 ### Java Full Stack Developer • Spring Boot Developer • MCA Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=269CCC&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Developer;Microservices+Enthusiast;Backend+Developer;Open+To+Java+Full+Stack+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=850&lines=Java+Full+Stack+Developer;Spring+Boot+Developer;React.js+Developer;Microservices+Enthusiast;Backend+Developer;Open+To+Java+Full+Stack+Roles" />
 
 <p align="center">
 Building scalable enterprise applications using Java, Spring Boot, React.js, Microservices, and Cloud Technologies.
@@ -20,6 +20,7 @@ Building scalable enterprise applications using Java, Spring Boot, React.js, Mic
 
 <a href="https://www.linkedin.com/in/zainab-fatema/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  
 </a>
 
 <a href="https://github.com/ZainabFatema72">
@@ -27,7 +28,8 @@ Building scalable enterprise applications using Java, Spring Boot, React.js, Mic
 </a>
 
 <a href="https://portfoliozai.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-269ccc?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=white"/>
+
 </a>
 
 </p>
@@ -247,8 +249,7 @@ Java • Spring Boot • React.js • MySQL
 ---
 
 #  Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabFatema72&bg_color=0d1117&color=269ccc&line=9ed2c5&point=ffffff&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabFatema72&bg_color=0d1117&color=D4AF37&line=F5D76E&point=ffffff&hide_border=true"/>
 
 ---
 
@@ -298,7 +299,7 @@ Java • Spring Boot • React.js • MySQL
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ZainabFatema72&label=Profile+Views&color=269ccc&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ZainabFatema72&label=Profile+Views&color=D4AF37&style=for-the-badge"/>
 
 </div>
 
@@ -315,7 +316,6 @@ Java • Spring Boot • React.js • MySQL
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:269ccc,100:9ed2c5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,100:F5D76E&height=120&section=footer"/>
 
 </div>

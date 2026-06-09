@@ -36,8 +36,6 @@ Building scalable enterprise applications using Java, Spring Boot, React.js, Mic
 
 </div>
 
----
-
 #  About Me
 
 ```yaml

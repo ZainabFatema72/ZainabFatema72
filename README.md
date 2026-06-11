@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=Hey+There!+I'm+Zainab+Fatema+%F0%9F%91%8B;Java+Full+Stack+Developer;Spring+Boot+%2B+React.js+%7C+MCA+Graduate;5+Production+Systems+Shipped+%F0%9F%9A%80;Open+To+Work+%E2%80%94+Immediate+Joiner!" alt="Typing SVG" />
 
 <br/>
-
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabfatema537@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-fatema/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZainabFatema72)

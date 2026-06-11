@@ -1,133 +1,161 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   public class ZainabFatema extends Developer {      ║
-║       String role     = "Java Full Stack Dev";       ║
-║       String location = "Nagpur, Maharashtra";       ║
-║       boolean openTo  = true;                        ║
-║   }                                                  ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
-```
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=1000&color=D4AF37&center=true&vCenter=true&width=700&lines=Zainab+Fatema;Java+Full+Stack+Developer;Spring+Boot+%2B+React.js;5+Production+Systems+Shipped" />
+</h1>
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zainabfatema537@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-fatema/)
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/ZainabFatema72)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square&logo=vercel&logoColor=white)](https://portfoliozai.netlify.app/)
-[![Status](https://img.shields.io/badge/Available-Immediate%20Joiner-22c55e?style=flat-square)]()
+<p>
+  <a href="mailto:zainabfatema537@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/zainab-fatema/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/ZainabFatema72"><img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://portfoliozai.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-D4AF37?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/🟢_Immediate_Joiner-Available-22c55e?style=flat-square"/>
+</p>
 
 </div>
 
-&nbsp;
+---
 
-I'm a **Java Full Stack Developer** with a background in building real systems that go live — not just demo projects. Currently shipping production code at **Chetan's Royals WebTech**, where I've worked across healthcare, railways, travel, and business automation. My stack centers on **Spring Boot + React.js**, with growing depth in microservices, Docker, and event-driven patterns.
+```java
+public class ZainabFatema extends Developer {
 
-&nbsp;
+    // Who I am
+    String role        = "Java Full Stack Developer";
+    String location    = "Nagpur, Maharashtra";
+    int    projectsLive = 5;
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+    // Stack I work with
+    String[] backend   = { "Java", "Spring Boot", "Node.js", "Express.js" };
+    String[] frontend  = { "React.js", "Tailwind CSS", "Vite", "JavaScript" };
+    String[] databases = { "MySQL", "MongoDB", "Firebase" };
+    String[] devops    = { "Docker", "AWS", "Jenkins", "Git" };
 
-## What I Work With
+    // Status
+    boolean openToWork  = true;
+    boolean canRelocate = true;
+    String  availability = "Immediate Joiner";
+}
+```
 
-**Backend**
-`Java` `Spring Boot` `Node.js` `Express.js` `REST APIs` `JWT Auth` `RBAC` `Maven`
+MCA graduate currently shipping production code at **Chetan's Royals WebTech**. I've built systems that go live in healthcare, railway, travel, and business automation — not just demo apps. My focus is clean backend architecture, secure JWT-based auth flows, and React frontends that actually work well.
 
-**Frontend**
-`React.js` `HTML` `CSS` `Tailwind CSS` `JavaScript` `Vite`
-
-**Databases**
-`MySQL` `MongoDB` `Firebase`
-
-**Infrastructure & Tools**
-`Docker` `AWS` `Jenkins` `Git` `Postman` `JUnit` `Mockito` `Kafka`
-
-**Currently Going Deeper On**
-`Microservices Architecture` `Kubernetes` `System Design` `Event-Driven Patterns`
-
-&nbsp;
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## Experience
 
-### Software Developer Intern · Chetan's Royals WebTech Pvt. Ltd.
-`Jan 2026 – Present` · Nagpur
+### Software Developer Intern — Chetan's Royals WebTech Pvt. Ltd.
+`Jan 2026 – Present` &nbsp;·&nbsp; Nagpur, Maharashtra
 
-Shipped **5 production systems** across domains. Worked directly with clients from requirement gathering through delivery.
+**5 production systems delivered:**
 
-| System | Stack | Outcome |
+| System | Stack | Result |
 |---|---|---|
-| **Smart Clean Monitoring** (Railway) | MERN · Firebase · Geo-location | 100+ real-time complaints tracked; manual reporting cut by ~40% |
-| **Tours & Travel Platform** | React.js · Node.js · MongoDB | Responsive booking workflows + admin panel |
-| **Car Rental Management** | MERN · JWT | API + DB query optimization → 30% faster response times |
-| **Billing & Invoice Software** | React.js · Node.js · MySQL | Invoice generation, payment tracking, reporting dashboards |
-| **Parasite Info & Medicine** | React.js · Node.js · MongoDB | Healthcare web app with symptom lookup and medicine details |
+| Smart Clean Monitoring (Railway) | MERN · Firebase · Geo-location | 100+ live complaints tracked · ~40% less manual work |
+| Tours & Travel Platform | React.js · Node.js · MongoDB | Full booking + admin workflows |
+| Car Rental Management | MERN · JWT | 30% faster API response after query optimization |
+| Billing & Invoice Software | React.js · Node.js · MySQL | Invoice gen, payment tracking, dashboards |
+| Parasite Info & Medicine | React.js · Node.js · MongoDB | Healthcare symptom + medicine lookup |
 
-- Implemented JWT auth and role-based access control across all platforms
-- Followed full SDLC with Agile practices, code reviews, and Git-based workflows
+- JWT authentication and RBAC implemented across all platforms
+- Agile workflow — code reviews, debugging, full SDLC involvement
+- Git-based source control and collaborative development
 
-&nbsp;
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
 
 ## Projects
 
-**[One Touch Move — Healthcare Appointment Platform](https://github.com/ZainabFatema72)**
-`Java` `Spring Boot` `React.js` `MySQL` `JWT`
-3-role authentication (Patient / Doctor / Admin) · 3 consultation types · Doctor scheduling · Admin dashboard
+<table>
+<tr>
+<td width="50%" valign="top">
 
-&nbsp;
+**🔷 One Touch Move — Healthcare Platform**
+`Java · Spring Boot · React.js · MySQL · JWT`
 
-**[Smart Clean Monitoring System — Railway](https://github.com/ZainabFatema72)**
-`MERN Stack` `Firebase` `Geo-location APIs`
-Complaint tracking across 3 railway roles · Before/after image verification · Live geo-status updates
+- 3-role auth: Patient / Doctor / Admin
+- 3 consultation types: Online, Home Visit, Clinic
+- REST API integration · Admin dashboard
 
-&nbsp;
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-111111?style=flat-square&logo=github)](https://github.com/ZainabFatema72)
 
-**[Microservices Order Management System](https://github.com/ZainabFatema72)**
-`Node.js` `Express.js` `MongoDB` `Docker`
-Modular order + inventory services · Independent deployments · Docker Compose containerization
+</td>
+<td width="50%" valign="top">
 
-&nbsp;
+**🔷 Smart Clean Monitoring — Railway**
+`MERN Stack · Firebase · Geo-location APIs`
 
-**[Event Management System](https://portfoliozai.netlify.app/)**
-`Java` `Spring Boot` `React.js` `MySQL`
-Full-stack event booking · Multi-registration support · Attendee & admin management
+- Real-time tracking across 3 railway roles
+- Before/after image verification
+- Reduced manual reporting by ~40%
 
-&nbsp;
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-111111?style=flat-square&logo=github)](https://github.com/ZainabFatema72)
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-## Education
+**🔷 Microservices Order Management**
+`Node.js · Express.js · MongoDB · Docker`
 
-**MCA** · P.R. Pote Patil College of Engineering & Management · CGPA 8.12
+- Modular order + inventory services
+- Independent deployment architecture
+- Docker Compose containerized
 
-**BSc Computer Science** · Sant Gadge Baba Amravati University · 69.44%
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-111111?style=flat-square&logo=github)](https://github.com/ZainabFatema72)
 
-&nbsp;
+</td>
+<td width="50%" valign="top">
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**🔷 Event Management System**
+`Java · Spring Boot · React.js · MySQL`
 
-## Certifications
+- Full-stack event booking platform
+- Multi-event registration support
+- Attendee and admin management
 
-- AWS Cloud Foundations + AWS Architecting · Amazon Web Services
-- Internshala Web Development Training
-- NPTEL – Enhancing Soft Skills & Personality
-- Python Gold Badge · HackerRank
-- SQL Silver Badge · HackerRank
-- AMCAT Assessment · 2025 & 2026
+[![Live](https://img.shields.io/badge/Live_Demo-D4AF37?style=flat-square&logo=vercel)](https://portfoliozai.netlify.app/)
 
-&nbsp;
+</td>
+</tr>
+</table>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+---
+
+## Tech Stack
+
+**Backend**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+**Frontend**
+![React](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**DevOps & Tools**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+**Currently Exploring:** `Kubernetes` `Kafka` `System Design` `Event-Driven Architecture`
+
+---
 
 ## GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZainabFatema72&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabFatema72&theme=tokyonight&hide_border=true&background=0d1117"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZainabFatema72&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabFatema72&theme=tokyonight&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37"/>
 
 </div>
 
@@ -135,15 +163,35 @@ Full-stack event booking · Multi-registration support · Attendee & admin manag
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabFatema72&bg_color=0d1117&color=D4AF37&line=F5D76E&point=ffffff&hide_border=true"/>
 </div>
 
-&nbsp;
+---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## Education
+
+| Degree | Institute | Score |
+|---|---|---|
+| MCA | P.R. Pote Patil College of Engineering & Management | CGPA 8.12 |
+| BSc Computer Science | Sant Gadge Baba Amravati University | 69.44% |
+
+---
+
+## Certifications
+
+| | Certification | Issuer |
+|---|---|---|
+| 🏅 | AWS Cloud Foundations | Amazon Web Services |
+| 🏅 | AWS Architecting | Amazon Web Services |
+| 🏅 | Web Development Training | Internshala |
+| 🏅 | Python Gold Badge | HackerRank |
+| 🏅 | SQL Silver Badge | HackerRank |
+| 🏅 | AMCAT Assessment 2025 & 2026 | AMCAT |
+
+---
 
 <div align="center">
 
-📍 Nagpur · Open to Relocate · Immediate Joiner
+📍 Nagpur, Maharashtra &nbsp;·&nbsp; ✈️ Open to Relocate &nbsp;·&nbsp; 🟢 Immediate Joiner
 
-[zainabfatema537@gmail.com](mailto:zainabfatema537@gmail.com) · [linkedin.com/in/zainab-fatema](https://www.linkedin.com/in/zainab-fatema/) · [portfoliozai.netlify.app](https://portfoliozai.netlify.app/)
+**[zainabfatema537@gmail.com](mailto:zainabfatema537@gmail.com)** &nbsp;|&nbsp; **[LinkedIn](https://www.linkedin.com/in/zainab-fatema/)** &nbsp;|&nbsp; **[Portfolio](https://portfoliozai.netlify.app/)**
 
 <img src="https://komarev.com/ghpvc/?username=ZainabFatema72&label=Profile+Views&color=D4AF37&style=flat-square"/>
 

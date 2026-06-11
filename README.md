@@ -9,15 +9,15 @@
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZainabFatema72)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliozai.netlify.app/)
 
-![Status](https://img.shields.io/badge/🟢_Status-Immediate_Joiner-22c55e?style=flat-square)
-![Location](https://img.shields.io/badge/📍_Location-Nagpur,_MH-blue?style=flat-square)
-![Relocate](https://img.shields.io/badge/✈️_Open_To-Relocate-orange?style=flat-square)
+![Status](https://img.shields.io/badge/_Status-Immediate_Joiner-22c55e?style=flat-square)
+![Location](https://img.shields.io/badge/_Location-Nagpur,_MH-blue?style=flat-square)
+![Relocate](https://img.shields.io/badge/_Open_To-Relocate-orange?style=flat-square)
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 ```java
 public class ZainabFatema extends Developer {
@@ -42,17 +42,17 @@ public class ZainabFatema extends Developer {
 }
 ```
 
-> 🚀 MCA Graduate currently shipping production code at **Chetan's Royals WebTech, Nagpur**
+>  MCA Graduate currently shipping production code at **Chetan's Royals WebTech, Nagpur**
 > across healthcare, railway, travel & business automation domains.
 
 ---
 
-## 💼 Experience
+##  Experience
 
-### ⚡ Software Developer Intern — Chetan's Royals WebTech Pvt. Ltd.
+###  Software Developer Intern — Chetan's Royals WebTech Pvt. Ltd.
 > `Jan 2026 – Present` &nbsp;•&nbsp; Nagpur, Maharashtra
 
-| 🔷 System | 🛠️ Stack | 📈 Impact |
+|  System |  Stack |  Impact |
 |---|---|---|
 | **Smart Clean Monitoring** (Railway) | MERN · Firebase · Geo-location | 100+ live complaints tracked · ~40% less manual work |
 | **Tours & Travel Platform** | React.js · Node.js · MongoDB | Full booking + admin workflows |
@@ -60,18 +60,18 @@ public class ZainabFatema extends Developer {
 | **Billing & Invoice Software** | React.js · Node.js · MySQL | Invoice gen, payments, dashboards |
 | **Parasite Info & Medicine** | React.js · Node.js · MongoDB | Healthcare symptom + medicine lookup |
 
-✅ JWT authentication & RBAC implemented across all 5 platforms  
-✅ Agile workflow · code reviews · Git-based collaboration · full SDLC
+ JWT authentication & RBAC implemented across all 5 platforms  
+ Agile workflow · code reviews · Git-based collaboration · full SDLC
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 One Touch Move — Healthcare Platform
+###  One Touch Move — Healthcare Platform
 `Java` `Spring Boot` `React.js` `MySQL` `JWT`
 
 * ✔ 3-role JWT auth: Patient / Doctor / Admin
@@ -84,7 +84,7 @@ public class ZainabFatema extends Developer {
 </td>
 <td width="50%" valign="top">
 
-### 🔷 Smart Clean — Railway Monitoring
+###  Smart Clean — Railway Monitoring
 `MERN Stack` `Firebase` `Geo-location APIs`
 
 * ✔ Real-time tracking across 3 railway roles
@@ -99,7 +99,7 @@ public class ZainabFatema extends Developer {
 <tr>
 <td width="50%" valign="top">
 
-### 🔷 Microservices Order Management
+###  Microservices Order Management
 `Node.js` `Express.js` `MongoDB` `Docker`
 
 * ✔ Modular order + inventory services
@@ -112,7 +112,7 @@ public class ZainabFatema extends Developer {
 </td>
 <td width="50%" valign="top">
 
-### 🔷 Event Management System
+###  Event Management System
 `Java` `Spring Boot` `React.js` `MySQL`
 
 * ✔ Full-stack event booking platform
@@ -128,7 +128,7 @@ public class ZainabFatema extends Developer {
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -195,21 +195,21 @@ public class ZainabFatema extends Developer {
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
-| 🏆 Certification | 🏢 Issuer |
+|  Certification |  Issuer |
 |---|---|
 | AWS Cloud Foundations | Amazon Web Services |
 | AWS Architecting | Amazon Web Services |
 | Web Development Training | Internshala |
-| Python 🥇 Gold Badge | HackerRank |
-| SQL 🥈 Silver Badge | HackerRank |
+| Python  Gold Badge | HackerRank |
+| SQL  Silver Badge | HackerRank |
 | AMCAT Assessment 2025 & 2026 | AMCAT |
 | NPTEL – Enhancing Soft Skills & Personality | NPTEL |
 
 ---
 
-## 🧠 CS Fundamentals
+##  CS Fundamentals
 
 ```
 Data Structures & Algorithms  ·  OOP  ·  DBMS  ·  OS  ·  Computer Networks
@@ -218,7 +218,7 @@ MVC Architecture  ·  J2EE Concepts  ·  Microservices  ·  SOAP & REST APIs  ·
 
 ---
 
-## 🌐 Languages
+##  Languages
 
 🇬🇧 English &nbsp;|&nbsp; 🇮🇳 Hindi &nbsp;|&nbsp; 🇮🇳 Marathi
 
@@ -226,14 +226,14 @@ MVC Architecture  ·  J2EE Concepts  ·  Microservices  ·  SOAP & REST APIs  ·
 
 <div align="center">
 
-### 📫 Let's Connect
+###  Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zainabfatema537@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-fatema/)
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZainabFatema72)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D4AF37?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliozai.netlify.app/)
 
-📞 +91 9579700771 &nbsp;|&nbsp; 📍 Nagpur, Maharashtra &nbsp;|&nbsp; ✈️ Open to Relocate
+ +91 9579700771 &nbsp;|&nbsp;  Nagpur, Maharashtra &nbsp;|&nbsp;  Open to Relocate
 
 ---
 

@@ -199,7 +199,7 @@ public class ZainabFatema extends Developer {
 
 | 🎓 Degree | 🏫 Institute | 📊 Score | 📅 Year |
 |---|---|---|---|
-| **MCA** | P.R. Pote Patil College of Engineering & Management | **CGPA: 8.18 / 10** | 2024–2026 |
+| **MCA** | P.R. Pote Patil College of Engineering & Management | **CGPA: 8.26 / 10** | 2024–2026 |
 | **B.Sc. Computer Science** | Sant Gadge Baba Amravati University | **69.44%** | 2021–2024 |
 | **HSC** | — | **89.50%** | 2021 |
 | **SSC** | — | **82.20%** | 2019 |

@@ -24,7 +24,7 @@
 
 ---
 
-## 👩‍💻 A Quick Intro
+##  A Quick Intro
 
 ```java
 public class Developer {
@@ -47,8 +47,8 @@ public class Developer {
 }
 ```
 
-> 🏢 Building production software at **Chetan's Royals WebTech, Nagpur** — across healthcare, government railway, travel, car rental, and business-automation platforms.  
-> 📉 ~40% cut in manual railway reporting &nbsp;|&nbsp; ⚡ 30% faster API response times
+> Building production software at **Chetan's Royals WebTech, Nagpur** — across healthcare, government railway, travel, car rental, and business-automation platforms.  
+>  ~40% cut in manual railway reporting &nbsp;|&nbsp;  30% faster API response times
 
 **Quick Facts**
 
@@ -62,7 +62,7 @@ public class Developer {
 
 ---
 
-## 💼 Where I Work
+##  Where I Work
 
 ### Software Developer Intern · Chetan's Royals WebTech Pvt. Ltd.
 `Jan 2026 – Present` &nbsp;•&nbsp; Nagpur, Maharashtra
@@ -79,7 +79,7 @@ public class Developer {
 
 ---
 
-## 🛠️ Things I've Built
+##  Things I've Built
 
 <table>
 <tr>

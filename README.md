@@ -1,22 +1,146 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=900&color=4FD1C5&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Zainab+Fatema;Java+%2F+Spring+Boot+%2F+React.js+Developer;MCA+Graduate+%E2%80%94+CGPA+8.26;5+Production+Systems%2C+Live+%26+Running;Immediate+Joiner+%E2%80%94+Open+To+Work" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=900&color=8BE9FD&center=true&vCenter=true&width=820&lines=Hi%2C+I'm+Zainab+Fatema;Java+%2F+Spring+Boot+%2F+React.js+Developer;MCA+Graduate+%E2%80%94+CGPA+8.26;5+Production+Systems%2C+Live+%26+Running;Immediate+Joiner+%E2%80%94+Open+To+Work" alt="Typing SVG" />
 
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-4FD1C5?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:zainabfatema537@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-fatema/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZainabFatema72)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4FD1C5?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://portfoliozai.netlify.app/)
-
-![Status](https://img.shields.io/badge/Looking_For-Full--Time_Role-22c55e?style=flat-square&logo=checkmarx&logoColor=white)
-![Location](https://img.shields.io/badge/Based_In-Nagpur,_MH-3B82F6?style=flat-square&logo=googlemaps&logoColor=white)
-![Relocate](https://img.shields.io/badge/Relocation-Open-F97316?style=flat-square)
-![Experience](https://img.shields.io/badge/Industry_Exp-6_Months-8B5CF6?style=flat-square)
+[![Gmail](https://img.shields.io/badge/Gmail-8BE9FD?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:zainabfatema537@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-fatema/)
+[![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZainabFatema72)
+[![Portfolio](https://img.shields.io/badge/Portfolio-50FA7B?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://portfoliozai.netlify.app/)
 
 <br/>
 
-| 5+ | 30% | 40% | 8.26 |
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Open to Work](https://img.shields.io/badge/Open_to_Work-50FA7B?style=flat-square&logo=checkmarx&logoColor=0d1117)
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════ NEOFETCH-STYLE DASHBOARD ══════════════════════════ -->
+
+<div align="center">
+
+```
+┌─[zainab@devbox]─[~]
+└─$ neofetch
+```
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="34%" valign="top">
+
+```
+        ░░░░░░░░░░░░░░
+      ░░▓▓▓▓▓▓▓▓▓▓▓▓░░
+      ▓▓▓▓░░░░░░░░▓▓▓▓
+      ▓▓▓░  ◕    ◕  ▓▓▓
+      ▓▓▓░    ▽     ▓▓▓
+      ▓▓▓░  ─────   ▓▓▓
+      ▓▓▓▓░░░░░░░░▓▓▓▓
+      ░░▓▓▓▓▓▓▓▓▓▓▓▓░░
+        ░░░░░░░░░░░░░░
+       ZF@Nagpur-WebTech
+      ─────────────────
+       Java Full Stack
+       Developer • 2026
+```
+
+</td>
+<td width="66%" valign="top">
+
+```
+zainab@devbox
+─────────────────────────────────────────────
+👤 Name        : Zainab Fatema
+💼 Role        : Java Full Stack Developer
+🎓 Education   : MCA Graduate (CGPA 8.26/10)
+📍 Location    : Nagpur, Maharashtra, India
+🏢 Company     : Chetan's Royals WebTech Pvt. Ltd.
+🧩 Position    : Software Developer Intern
+🛠️  Stack      : Java | Spring Boot | React | Node | MySQL
+📡 Learning    : Microservices | Kafka | Kubernetes | AWS
+🟢 Status      : Open To Work — Immediate Joiner
+✈️  Relocation  : Open Globally
+🌐 Portfolio   : portfoliozai.netlify.app
+🐙 GitHub      : github.com/ZainabFatema72
+💼 LinkedIn    : linkedin.com/in/zainab-fatema
+📞 Phone       : +91 9579700771
+─────────────────────────────────────────────
+🎨 Theme       : Dracula
+⚡ Uptime      : 6 Months Industry Experience
+📦 Shipped     : 5 Live Production Systems
+```
+
+</td>
+</tr>
+</table>
+
+<!-- ══════════════════════════ TERMINAL COMMAND SECTION ══════════════════════════ -->
+
+<div align="center">
+
+<table width="90%">
+<tr><td>
+
+```bash
+┌──(zainab㉿devbox)-[~/portfolio]
+└─$ whoami
+Zainab Fatema — Java Full Stack Developer
+
+┌──(zainab㉿devbox)-[~/portfolio]
+└─$ skills --list
+> Java
+> Spring Boot
+> React.js
+> Node.js
+> Docker
+
+┌──(zainab㉿devbox)-[~/portfolio]
+└─$ currently --status
+Building production software at Chetan's Royals WebTech
+across healthcare, government railway, travel,
+car rental, and business-automation platforms.
+
+┌──(zainab㉿devbox)-[~/portfolio]
+└─$ learning --next
+> Kafka
+> Microservices
+> AWS
+> Kubernetes
+> System Design
+
+┌──(zainab㉿devbox)-[~/portfolio]
+└─$ contact --show
+> Email      : zainabfatema537@gmail.com
+> LinkedIn   : linkedin.com/in/zainab-fatema
+> Portfolio  : portfoliozai.netlify.app
+
+┌──(zainab㉿devbox)-[~/portfolio]
+└─$ _
+```
+
+</td></tr>
+</table>
+
+</div>
+
+---
+
+## 📊 Quick Stats
+
+<div align="center">
+
+| 🚀 5+ | ⚡ 30% | 🧹 40% | 🎓 8.26 |
 |:---:|:---:|:---:|:---:|
 | Live Platforms | API Optimization | Manual Work Cut | MCA CGPA |
 
@@ -24,7 +148,7 @@
 
 ---
 
-##  A Quick Intro
+## 🧠 A Quick Intro
 
 ```java
 public class Developer {
@@ -47,45 +171,45 @@ public class Developer {
 }
 ```
 
-> Building production software at **Chetan's Royals WebTech, Nagpur** — across healthcare, government railway, travel, car rental, and business-automation platforms.  
->  ~40% cut in manual railway reporting &nbsp;|&nbsp;  30% faster API response times
+> Building production software at **Chetan's Royals WebTech, Nagpur** — across healthcare, government railway, travel, car rental, and business-automation platforms.
+> ~40% cut in manual railway reporting &nbsp;|&nbsp; 30% faster API response times
 
 **Quick Facts**
 
 | | |
 |---|---|
-| Role | Java Full Stack Dev |
-| Experience | 6 Months Industry |
-| Location | Nagpur, Maharashtra |
-| Relocate | Yes — open globally |
-| Languages | English · Hindi · Marathi |
+| 💼 Role | Java Full Stack Dev |
+| ⏳ Experience | 6 Months Industry |
+| 📍 Location | Nagpur, Maharashtra |
+| ✈️ Relocate | Yes — open globally |
+| 🗣️ Languages | English · Hindi · Marathi |
 
 ---
 
-##  Where I Work
+## 🏢 Where I Work
 
 ### Software Developer Intern · Chetan's Royals WebTech Pvt. Ltd.
 `Jan 2026 – Present` &nbsp;•&nbsp; Nagpur, Maharashtra
 
 | System | Stack | What Shipped |
 |---|---|---|
-| **Smart Clean Monitoring** *(Govt. Railway)* | MERN · Firebase · Geo-location | 100+ live complaints tracked, ~40% less manual work |
-| **Tours & Travel Platform** | React.js · Node.js · MongoDB | Complete booking + admin workflows |
-| **Car Rental Management** | MERN · JWT Auth | 30% faster API responses |
-| **Billing & Invoice Software** | React.js · Node.js · MySQL | Invoice generation, payments, dashboards |
-| **Parasite Info & Medicine** | React.js · Node.js · MongoDB | Healthcare symptom + medicine lookup |
+| 🚆 **Smart Clean Monitoring** *(Govt. Railway)* | MERN · Firebase · Geo-location | 100+ live complaints tracked, ~40% less manual work |
+| ✈️ **Tours & Travel Platform** | React.js · Node.js · MongoDB | Complete booking + admin workflows |
+| 🚗 **Car Rental Management** | MERN · JWT Auth | 30% faster API responses |
+| 🧾 **Billing & Invoice Software** | React.js · Node.js · MySQL | Invoice generation, payments, dashboards |
+| 🩺 **Parasite Info & Medicine** | React.js · Node.js · MongoDB | Healthcare symptom + medicine lookup |
 
 ✔️ JWT authentication & RBAC across all 5 platforms &nbsp;&nbsp; ✔️ Agile · code reviews · full SDLC · client-facing delivery
 
 ---
 
-##  Things I've Built
+## 🛠️ Things I've Built
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### `01` One Touch Move — Healthcare Platform
+### `01` 🩺 One Touch Move — Healthcare Platform
 `Java` `Spring Boot` `React.js` `MySQL` `JWT`
 
 - 3-role JWT auth — Patient / Doctor / Admin
@@ -93,12 +217,12 @@ public class Developer {
 - Date-wise scheduling + admin dashboard
 - Full REST integration with Spring Boot backend
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/ZainabFatema72)
+[![Repo](https://img.shields.io/badge/View-Repo-282A36?style=flat-square&logo=github)](https://github.com/ZainabFatema72)
 
 </td>
 <td width="50%" valign="top">
 
-### `02` Smart Clean — Govt. Railway Monitoring
+### `02` 🚆 Smart Clean — Govt. Railway Monitoring
 `MERN` `Firebase` `Geo-location APIs`
 
 - Real-time tracking — Admin, Vendor, Cleaner roles
@@ -106,14 +230,14 @@ public class Developer {
 - ~40% drop in manual reporting
 - Live geo-tagged complaint status updates
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/ZainabFatema72)
+[![Repo](https://img.shields.io/badge/View-Repo-282A36?style=flat-square&logo=github)](https://github.com/ZainabFatema72)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### `03` Microservices Order Management
+### `03` 📦 Microservices Order Management
 `Node.js` `Express.js` `MongoDB` `Docker`
 
 - Modular order + inventory services
@@ -121,12 +245,12 @@ public class Developer {
 - REST-based inter-service communication
 - Dockerized with Docker Compose
 
-[![Repo](https://img.shields.io/badge/View-Repo-181717?style=flat-square&logo=github)](https://github.com/ZainabFatema72/Order-Management-System)
+[![Repo](https://img.shields.io/badge/View-Repo-282A36?style=flat-square&logo=github)](https://github.com/ZainabFatema72/Order-Management-System)
 
 </td>
 <td width="50%" valign="top">
 
-### `04` Event Management System
+### `04` 🎟️ Event Management System
 `Java` `Spring Boot` `React.js` `MySQL`
 
 - Full-stack booking & registration platform
@@ -134,7 +258,7 @@ public class Developer {
 - Admin panel for live event control
 - Deployed and live on Netlify
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-4FD1C5?style=flat-square&logo=vercel&logoColor=0d1117)](https://portfoliozai.netlify.app/)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-50FA7B?style=flat-square&logo=vercel&logoColor=0d1117)](https://portfoliozai.netlify.app/)
 
 </td>
 </tr>
@@ -146,7 +270,7 @@ public class Developer {
 
 <div align="center">
 
-**Backend**  
+**Backend**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -154,7 +278,7 @@ public class Developer {
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-**Frontend**  
+**Frontend**
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -162,12 +286,12 @@ public class Developer {
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Data & Storage**  
+**Data & Storage**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**DevOps & Workflow**  
+**DevOps & Workflow**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -175,11 +299,11 @@ public class Developer {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-**On My Radar**  
+**On My Radar**
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![System Design](https://img.shields.io/badge/System_Design-4FD1C5?style=for-the-badge&logoColor=0d1117)
+![System Design](https://img.shields.io/badge/System_Design-8BE9FD?style=for-the-badge&logoColor=0d1117)
 
 </div>
 
@@ -189,20 +313,20 @@ public class Developer {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZainabFatema72&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=4FD1C5&icon_color=4FD1C5&text_color=c9d1d9&count_private=true"/>
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabFatema72&theme=dracula&hide_border=true&background=0d1117&ring=4FD1C5&fire=4FD1C5&currStreakLabel=4FD1C5"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ZainabFatema72&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8BE9FD&icon_color=8BE9FD&text_color=c9d1d9"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ZainabFatema72&theme=dracula&hide_border=true&background=0d1117&ring=8BE9FD&fire=BD93F9&currStreakLabel=8BE9FD"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabFatema72&bg_color=0d1117&color=4FD1C5&line=8B5CF6&point=ffffff&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ZainabFatema72&bg_color=0d1117&color=8BE9FD&line=BD93F9&point=ffffff&hide_border=true&area=true"/>
 </div>
 
 <div align="center">
 
 | Most Used Languages | Commit Languages |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabFatema72&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=4FD1C5&text_color=c9d1d9"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZainabFatema72&theme=dracula"/> |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainabFatema72&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&title_color=8BE9FD&text_color=c9d1d9"/> | <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ZainabFatema72&theme=dracula"/> |
 
 </div>
 
@@ -247,11 +371,11 @@ MVC Architecture · J2EE · Microservices · REST & SOAP APIs · System Design
 
 <div align="center">
 
-### Ready to scale your next platform?
+### 💬 Ready to scale your next platform?
 
-[![Gmail](https://img.shields.io/badge/Email-4FD1C5?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:zainabfatema537@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-fatema/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4FD1C5?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://portfoliozai.netlify.app/)
+[![Gmail](https://img.shields.io/badge/Email-8BE9FD?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:zainabfatema537@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zainab-fatema/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-50FA7B?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://portfoliozai.netlify.app/)
 
 **Quick Connect**
 
@@ -266,6 +390,6 @@ MVC Architecture · J2EE · Microservices · REST & SOAP APIs · System Design
 
 *"Five systems live, none of them just demos. The next one's already in progress."*
 
-<img src="https://komarev.com/ghpvc/?username=ZainabFatema72&label=Profile+Views&color=4FD1C5&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=ZainabFatema72&label=Profile+Views&color=8BE9FD&style=for-the-badge"/>
 
 </div>

@@ -131,15 +131,12 @@ car rental, and business-automation platforms.
 ## 📊 Quick Stats
 
 <div align="center">
-
 | 🚀 5+ | ⚡ 30% | 🧹 40% | 🎓 8.26 |
 |:---:|:---:|:---:|:---:|
 | Live Platforms | API Optimization | Manual Work Cut | MCA CGPA |
 
 </div>
-
 ---
-
 ## 🧠 A Quick Intro
 
 ```java

@@ -3,7 +3,6 @@
 # 👋 Hi, I'm Zainab Fatema
 
 ### 💻 Java Full Stack Developer
-
 <p>
   Java • Spring Boot • React.js • Node.js • MySQL
 </p>
@@ -37,9 +36,7 @@ I'm a **Java Full Stack Developer** focused on building scalable and production-
 🟢 Immediate Joiner • Open to Relocate
 
 > *"Ship it, don't just demo it."*
-
 ---
-
 ## 🛠️ Tech Stack
 
 **Backend**

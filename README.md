@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Zainab Fatema
 
-### 💻 Java Full Stack Developer
+### 🤖 Aspiring Agentic AI Developer | Java Full Stack Developer
 <p>
-  Java • Spring Boot • React.js • Node.js • MySQL
+  Java • Spring Boot • React.js • LLM Applications • Agentic AI
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React.js+%7C+Node.js;REST+APIs+%7C+JWT+%7C+Docker;Building+Production-Ready+Applications;Open+To+Work+%7C+Immediate+Joiner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=760&lines=Aspiring+Agentic+AI+Developer;Building+LLM-Powered+Applications;Java+%7C+Spring+Boot+%7C+React;Exploring+AI+Agents+%26+Tool+Calling;Open+To+Work+%7C+Immediate+Joiner"/>
 
 <br/>
 
@@ -27,19 +27,34 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Java Full Stack Developer** focused on building scalable and production-ready web applications.
+I'm a **Java Full Stack Developer transitioning into Agentic AI development**. I bring hands-on experience building production web applications and am growing my skills in LLM-powered apps, AI agents, and workflow automation.
 
 🎓 MCA Graduate — **CGPA 8.26/10**  
-💼 **6 Months Industry Experience**  
-🚀 Worked on **5+ production systems**  
+💼 **6 months of industry experience** building and supporting production systems  
+🧩 Full-stack foundation in Java, Spring Boot, React, REST APIs, and databases  
+🤖 Currently learning **LLM integration, prompt engineering, tool calling, RAG, and agent workflows**  
 📍 Nagpur, Maharashtra, India  
 🟢 Immediate Joiner • Open to Relocate
 
-> *"Ship it, don't just demo it."*
+> *Building useful AI systems by combining strong software foundations with practical agent workflows.*
+
 ---
+
+## 🧠 Agentic AI Learning Focus
+
+- Connecting LLMs to application APIs and external tools
+- Designing structured prompts and reliable multi-step workflows
+- Exploring retrieval-augmented generation (RAG) and embeddings
+- Learning agent frameworks and orchestration patterns
+- Building evaluation, error handling, and human review into AI features
+
+**Exploring:** `LLM APIs` `Tool Calling` `RAG` `LangChain` `LangGraph` `Vector Databases` `AI Agents`
+
+---
+
 ## 🛠️ Tech Stack
 
-**Backend**
+**Programming & Backend**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -54,7 +69,7 @@ I'm a **Java Full Stack Developer** focused on building scalable and production-
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Database & DevOps**
+**Data, Cloud & Tools**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -64,7 +79,7 @@ I'm a **Java Full Stack Developer** focused on building scalable and production-
 
 **Currently Learning**
 
-`Microservices` `Kafka` `Kubernetes` `AWS` `System Design`
+`LLM APIs` `Prompt Engineering` `Tool Calling` `RAG` `LangChain` `LangGraph` `Vector Search`
 
 ---
 
@@ -75,15 +90,15 @@ I'm a **Java Full Stack Developer** focused on building scalable and production-
 
 `Jan 2026 – Present`
 
-Working on production applications across **healthcare, railway monitoring, travel, car rental and business automation**.
+Contributing to production applications across healthcare, railway monitoring, travel, car rental, and business automation. This work has strengthened my backend, API integration, and workflow design skills, which I am now applying as I move toward AI-powered applications.
 
-| Project | Stack | Impact |
+| Project | Stack | Contribution |
 |---|---|---|
-| 🚆 Smart Clean Monitoring | MERN · Firebase | ~40% less manual reporting |
-| ✈️ Tours & Travel | React · Node · MongoDB | Booking & admin workflows |
-| 🚗 Car Rental | MERN · JWT | ~30% API improvement |
-| 🧾 Billing & Invoice | React · Node · MySQL | Billing & dashboards |
-| 🩺 Healthcare Platform | React · Node · MongoDB | Healthcare information system |
+| 🚆 Smart Clean Monitoring | MERN · Firebase | Complaint tracking and reporting workflows |
+| ✈️ Tours & Travel | React · Node.js · MongoDB | Booking and admin workflows |
+| 🚗 Car Rental | MERN · JWT | Rental workflows and API improvements |
+| 🧾 Billing & Invoice | React · Node.js · MySQL | Billing features and dashboards |
+| 🩺 Healthcare Platform | React · Node.js · MongoDB | Healthcare information workflows |
 
 ---
 
@@ -94,10 +109,9 @@ Working on production applications across **healthcare, railway monitoring, trav
 
 `Java` `Spring Boot` `React.js` `MySQL` `JWT`
 
-- Patient / Doctor / Admin authentication
-- Online, Home Visit & Clinic consultations
-- Appointment scheduling
-- Admin dashboard
+- Patient, doctor, and admin authentication
+- Online, home visit, and clinic consultation options
+- Appointment scheduling and admin dashboard
 - REST API integration
 
 ---
@@ -108,10 +122,9 @@ Working on production applications across **healthcare, railway monitoring, trav
 `MERN` `Firebase` `Geo-location`
 
 - Real-time complaint tracking
-- Admin / Vendor / Cleaner roles
-- Before & after image verification
+- Admin, vendor, and cleaner roles
+- Before-and-after image verification
 - Geo-tagged complaint updates
-- Reduced manual reporting
 
 ---
 
@@ -119,10 +132,9 @@ Working on production applications across **healthcare, railway monitoring, trav
 
 `Node.js` `Express.js` `MongoDB` `Docker`
 
-- Order & inventory services
+- Order and inventory services
 - REST-based service communication
-- Independent service deployment
-- Docker Compose
+- Independent service deployment with Docker Compose
 
 ---
 
@@ -130,10 +142,9 @@ Working on production applications across **healthcare, railway monitoring, trav
 
 `Java` `Spring Boot` `React.js` `MySQL`
 
-- Event booking & registration
+- Event booking and registration
 - Attendee management
-- Admin dashboard
-- Multi-event support
+- Admin dashboard and multi-event support
 
 ---
 
@@ -141,9 +152,9 @@ Working on production applications across **healthcare, railway monitoring, trav
 
 <div align="center">
 
-| 🚀 Production Systems | ⚡ API Improvement | 🧹 Manual Work Reduced | 🎓 MCA |
-|:---:|:---:|:---:|:---:|
-| **5+** | **30%** | **~40%** | **8.26/10** |
+| 🚀 Production Systems | 💼 Industry Experience | 🎓 MCA |
+|:---:|:---:|:---:|
+| **5+** | **6 months** | **8.26/10** |
 
 </div>
 
@@ -187,7 +198,7 @@ Working on production applications across **healthcare, railway monitoring, trav
 
 ## 🎯 2026 Focus
 
-`Spring Boot` → `Microservices` → `Kafka` → `AWS` → `Kubernetes` → `System Design`
+`LLM APIs` → `Tool Calling` → `RAG` → `Agent Workflows` → `Evaluation & Deployment`
 
 ---
 
@@ -207,7 +218,7 @@ Working on production applications across **healthcare, railway monitoring, trav
 
 <br/><br/>
 
-**Java Full Stack Developer · Immediate Joiner · Open to Relocate**
+**Aspiring Agentic AI Developer · Java Full Stack Developer · Immediate Joiner**
 
 <br/>
 

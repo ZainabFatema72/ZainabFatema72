@@ -2,12 +2,12 @@
 
 # 👋 Hi, I'm Zainab Fatema
 
-### 🤖 Aspiring Agentic AI Developer | Java Full Stack Developer
+### 🤖 Aspiring Agentic AI Developer
 <p>
-  Java • Spring Boot • React.js • LLM Applications • Agentic AI
+  JavaScript • React.js • Node.js • LLM Applications • Agentic AI
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=760&lines=Aspiring+Agentic+AI+Developer;Building+LLM-Powered+Applications;Java+%7C+Spring+Boot+%7C+React;Exploring+AI+Agents+%26+Tool+Calling;Open+To+Work+%7C+Immediate+Joiner"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=21&duration=2800&pause=800&color=8BE9FD&center=true&vCenter=true&width=760&lines=Aspiring+Agentic+AI+Developer;Building+LLM-Powered+Applications;JavaScript+%7C+React+%7C+Node.js;Exploring+AI+Agents+%26+Tool+Calling;Open+To+Work+%7C+Immediate+Joiner"/>
 
 <br/>
 
@@ -27,11 +27,11 @@
 
 ## 👩‍💻 About Me
 
-I'm a **Java Full Stack Developer transitioning into Agentic AI development**. I bring hands-on experience building production web applications and am growing my skills in LLM-powered apps, AI agents, and workflow automation.
+I'm an **Aspiring Agentic AI Developer** with a full-stack development background. I bring hands-on experience building production web applications and am growing my skills in LLM-powered apps, AI agents, and workflow automation.
 
 🎓 MCA Graduate — **CGPA 8.26/10**  
 💼 **6 months of industry experience** building and supporting production systems  
-🧩 Full-stack foundation in Java, Spring Boot, React, REST APIs, and databases  
+🧩 Full-stack foundation in React, Node.js, REST APIs, and databases  
 🤖 Currently learning **LLM integration, prompt engineering, tool calling, RAG, and agent workflows**  
 📍 Nagpur, Maharashtra, India  
 🟢 Immediate Joiner • Open to Relocate
@@ -56,9 +56,6 @@ I'm a **Java Full Stack Developer transitioning into Agentic AI development**. I
 
 **Programming & Backend**
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
@@ -107,7 +104,7 @@ Contributing to production applications across healthcare, railway monitoring, t
 ### 🩺 One Touch Move
 **Healthcare Management Platform**
 
-`Java` `Spring Boot` `React.js` `MySQL` `JWT`
+`React.js` `Node.js` `MySQL` `JWT`
 
 - Patient, doctor, and admin authentication
 - Online, home visit, and clinic consultation options
@@ -140,7 +137,7 @@ Contributing to production applications across healthcare, railway monitoring, t
 
 ### 🎟️ Event Management System
 
-`Java` `Spring Boot` `React.js` `MySQL`
+`React.js` `Node.js` `MySQL`
 
 - Event booking and registration
 - Attendee management
@@ -185,10 +182,19 @@ Contributing to production applications across healthcare, railway monitoring, t
 
 ## 📜 Certifications
 
-- ☁️ AWS Cloud Foundations & Architecting
-- 🤖 GitHub Copilot + Prompt Engineering
-- 🌐 Web Development Virtual Internship
-- 🐍 Python Programming
+- 🤖 **GitHub Copilot Ask/Edit/Agent, Prompt Engineering, Vibe Coding & AI Applications — Attendee** — Global AI Community · Jul 2025
+- 📊 **GenAI Powered Data Analytics Job Simulation** — Forage · Oct 2026
+- 🧠 **BCG's Introduction to Data for Decision Makers Job Simulation** — Forage · Oct 2026
+- ☁️ **AWS - Solutions Architecture Job Simulation** — Forage · Aug 2025
+- ☁️ **AWS Academy Graduate - AWS Academy Cloud Foundations**
+- ☁️ **AWS Cloud Foundation** — Amazon Web Services
+- ☁️ **AWS for Beginners** — Simplilearn · Sep 2026 *(expired Oct 2026)*
+- 📈 **Business Statistics** — TimesPro · Oct 2026
+- 🧪 **A/B Testing** — Henkan & Partners · Oct 2026
+- 🚀 **Growth Hacking** — Simplilearn · Oct 2026
+- 🐍 **Python** — Spoken Tutorial, EduPyramids, SINE, IIT Bombay · Dec 2025
+- 🌐 **Bootstrap Training** — Spoken Tutorial, EduPyramids, SINE, IIT Bombay · Dec 2025
+- 💻 **Web Application** — Internshala Trainings / Skill India
 - 🏆 HackerRank Python Gold Badge
 - 🗄️ HackerRank SQL Silver Badge
 - 📊 AMCAT Assessment
@@ -218,10 +224,14 @@ Contributing to production applications across healthcare, railway monitoring, t
 
 <br/><br/>
 
-**Aspiring Agentic AI Developer · Java Full Stack Developer · Immediate Joiner**
+**Aspiring Agentic AI Developer · Immediate Joiner**
 
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=ZainabFatema72&label=Profile%20Views&color=8BE9FD&style=flat-square"/>
 
 </div>
+
+
+
+
